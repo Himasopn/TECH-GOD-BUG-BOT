@@ -29,7 +29,7 @@ global.themeemoji = '✝️'
 global.wm = "UWU"
 
 //theme link
-global.link = ''
+global.link = 'https://wa.me/917002015750?text=HEY.....%F0%9F%8D%B7%E2%9C%A8%EF%B8%8F'
 
 //custom prefix
 global.prefa = ['°']
